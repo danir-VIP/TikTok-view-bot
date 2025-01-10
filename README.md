@@ -1,2 +1,55 @@
 # TikTok-view-bot
-Full Mobil Api No Third Party Apis Full Requests No Proxy Required Need accounts Last version 
+Full Mobil Api
+
+No Third Party Apis 
+
+Full Requests 
+
+No Proxy Required 
+
+Need accounts
+
+Last version 
+
+contact telegram https://t.me/danirusa
+
+telegram chanel https://t.me/toolsgit
+
+# TikTok-view-bot
+完整的移动 API
+
+无需第三方 API
+
+完整请求
+
+无需代理
+
+需要帐户
+
+最新版本
+
+# TikTok-view-bot
+Полный мобильный API
+
+Никаких сторонних API
+
+Полные запросы
+
+Не требуется прокси
+
+Нужны учетные записи
+
+Последняя версия
+
+# TikTok-view-bot
+フルモバイル API
+
+サードパーティ API なし
+
+フルリクエスト
+
+プロキシ不要
+
+アカウントが必要
+
+最新バージョン
