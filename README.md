@@ -1,4 +1,4 @@
-# TikTok-view-bot
+# TikTok views bot
 Full Mobil Api
 
 No Third Party Apis 
@@ -28,7 +28,7 @@ telegram chanel https://t.me/toolsgit
 
 最新版本
 
-# TikTok-view-bot
+# TikTok views bot
 Полный мобильный API
 
 Никаких сторонних API
@@ -41,7 +41,7 @@ telegram chanel https://t.me/toolsgit
 
 Последняя версия
 
-# TikTok-view-bot
+# TikTok views bot
 フルモバイル API
 
 サードパーティ API なし
