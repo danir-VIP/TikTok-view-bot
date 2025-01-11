@@ -15,7 +15,7 @@ contact telegram https://t.me/danirusa
 
 telegram chanel https://t.me/toolsgit
 
-# TikTok-view-bot
+# TikTok-views-bot
 完整的移动 API
 
 无需第三方 API
