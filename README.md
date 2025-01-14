@@ -11,9 +11,9 @@ Need accounts
 
 Last version 
 
-contact telegram https://t.me/danirusa
+contact telegram https://t.me/daniruee
 
-telegram chanel https://t.me/toolsgit
+telegram chanel https://t.me/toolsgi
 
 # TikTok-views-bot
 完整的移动 API
